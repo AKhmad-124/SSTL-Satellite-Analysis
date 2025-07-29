@@ -1,0 +1,176 @@
+Constrained Instances: 'side-1', 'side-1', 'dasdasdasd'
+Constraint Name: Symmetric4
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'side-1', 'side-1', 'dasdasdasd'
+Constraint Name: Symmetric5
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'M3_M_TO_F_STANDOFF-9'
+Constraint Name: Concentric7
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'M3_F_TO_F_STANDOFF-1'
+Constraint Name: Concentric8
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'M3_F_TO_F_STANDOFF-1'
+Constraint Name: Coincident37
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'pan head cross recess screw_iso-2'
+Constraint Name: Concentric10
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'pan head cross recess screw_iso-2'
+Constraint Name: Coincident45
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'pan head cross recess screw_iso-2', 'M3_F_TO_F_STANDOFF-5'
+Constraint Name: Concentric11
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'M3_F_TO_F_STANDOFF-5'
+Constraint Name: Coincident64
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_F_TO_F_STANDOFF-1', 'M3_F_TO_F_STANDOFF-5'
+Constraint Name: Coincident65
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-13', 'dasdasdasd'
+Constraint Name: Coincident68
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'M3_M_TO_F_STANDOFF-13'
+Constraint Name: Concentric24
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'M3_M_TO_F_STANDOFF-13'
+Constraint Name: Coincident69
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'M3_F_TO_F_STANDOFF-5'
+Constraint Name: Parallel6
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'dummy PCB-6'
+Constraint Name: Concentric36
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'dummy PCB-6'
+Constraint Name: Coincident75
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-6', 'M3_M_TO_F_STANDOFF-14'
+Constraint Name: Concentric38
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-6', 'M3_M_TO_F_STANDOFF-14'
+Constraint Name: Coincident77
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'M3_M_TO_F_STANDOFF-14'
+Constraint Name: Coincident78
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-7', 'M3_M_TO_F_STANDOFF-14'
+Constraint Name: Concentric39
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-6', 'dummy PCB-7'
+Constraint Name: Concentric40
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-7', 'M3_M_TO_F_STANDOFF-14'
+Constraint Name: Coincident79
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-7', 'M3_M_TO_F_STANDOFF-16'
+Constraint Name: Concentric41
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-7', 'M3_M_TO_F_STANDOFF-16'
+Constraint Name: Coincident80
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'M3_M_TO_F_STANDOFF-16'
+Constraint Name: Coincident81
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-7', 'M3_M_TO_F_STANDOFF-16'
+Constraint Name: Concentric42
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dasdasdasd', 'dasdasdasd', 'side-1', 'side-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dasdasdasd', 'dummy PCB-6'
+Constraint Name: Distance8
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-13', '3D_PCB_PCB_ADCs_2025-03-28_2025-03-28-1'
+Constraint Name: Concentric43
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-7', '3D_PCB_PCB_ADCs_2025-03-28_2025-03-28-1'
+Constraint Name: Parallel7
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-16', '3D_PCB_PCB_ADCs_2025-03-28_2025-03-28-1'
+Constraint Name: Coincident86
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-13', '3D_PCB_PCB_ADCs_2025-03-28_2025-03-28-1'
+Constraint Name: Coincident87
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_F_TO_F_STANDOFF-1', 'Real NRF-1/Real NRF.step-1/Board_1.step-1'
+Constraint Name: Coincident88
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'pan head cross recess screw_iso-2', 'Real NRF-1/Real NRF.step-1/Board_1.step-1'
+Constraint Name: Concentric44
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ceiling-2', 'Real NRF-1/Real NRF.step-1/Board_1.step-1'
+Constraint Name: Parallel8
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_F_TO_F_STANDOFF-5', 'Real NRF-1/Real NRF.step-1/Board_1.step-1'
+Constraint Name: Coincident90
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-13', 'dasdasdasd'
+Constraint Name: Coincident91
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-13', 'dasdasdasd'
+Constraint Name: Concentric45
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dasdasdasd', '3D_PCB_PCB_ADCs_2025-03-28_2025-03-28-1'
+Constraint Name: Parallel10
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'dummy PCB-6', 'Real NRF-1/Real NRF.step-1/Board_1.step-1'
+Constraint Name: Parallel12
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'dummy PCB-8'
+Constraint Name: Concentric47
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_M_TO_F_STANDOFF-9', 'dummy PCB-8'
+Constraint Name: Coincident95
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'M3_F_TO_F_STANDOFF-5', 'dummy PCB-8'
+Constraint Name: Coincident96
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Real NRF-1/Real NRF.step-1/Board_1.step-1', 'dummy PCB-8'
+Constraint Name: Parallel14
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------

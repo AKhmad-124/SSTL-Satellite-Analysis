@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="04/24/25||03:36:39" using="Simscape Multibody Link Version 7.4" from="SolidWorks 32.1.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="dasdasdasd" uid="dasdasdasd" version="12166">
+<AssemblyFile name="dasdasdasd.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Hinge-6" uid="Hinge-6" entityUid="Hinge">
+<Transform>
+<Rotation>2.1101111507476237e-15 0.99568523360325567 -0.092795019178994589 -1 2.08977958641649e-15 -3.1627209441698882e-16 -1.2098631741038083e-16 0.092795019178994589 0.99568523360325567</Rotation>
+<Translation>-0.056436343424823718 -0.08100000000000003 -0.041569022693517296</Translation>
+</Transform>
+<Instance name="Part1^Hinge-1" uid="Part1^Hinge-1" entityUid="Part1^Hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.2034975564646317e-15 1.6173349311237725e-15 -2.0149136757832817e-15 0.57056279093466922 0.82125398117807658 0 -0.82125398117807669 0.57056279093466911</Rotation>
+<Translation>-1.9864902639499249e-09 0.0013071218742912796 0.0034997345285141188</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Copy of Part1^Hinge-1" uid="Copy of Part1^Hinge-1" entityUid="Copy of Part1^Hinge*:*Default">
+<Transform>
+<Rotation>-1 -2.1307615585288991e-15 -2.169046326906052e-16 2.101440150606145e-15 -0.99568523360325589 0.092795019178994603 -4.1369279955972698e-16 0.092795019178994603 0.99568523360325589</Rotation>
+<Translation>0 0.0094298712752284297 -0.00050821522228610555</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part2^Hinge-1" uid="Part2^Hinge-1" entityUid="Part2^Hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421143e-15 1 -1.1802248265335314e-15 -0.89775164036859223 -2.0828521683767324e-15 -0.44050197753869613 -0.44050197753869613 2.9264700350193872e-16 0.89775164036859223</Rotation>
+<Translation>-0.0089999999999999941 0.0040000000000000313 0.00049999999999999351</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="Solar panal-1" uid="Solar panal-1" entityUid="Solar panal*:*Moving">
+<Transform>
+<Rotation>0.64430922471135788 0.7647650769692933 5.5864971403874807e-15 9.8880246719031696e-15 -1.0257376984341216e-15 -1 -0.7647650769692933 0.64430922471135788 -8.2229082105175863e-15</Rotation>
+<Translation>-0.078363198795967509 1.9993914150888763e-09 -0.008878329309103726</Translation>
+</Transform>
+</Instance>
+<Instance name="side-1" uid="side-1" entityUid="side*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.050000000000000003 0 0.050000000000000003</Translation>
+</Transform>
+</Instance>
+<Instance name="ceiling-2" uid="ceiling-2" entityUid="ceiling*:*other">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.16424999999999898 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Hinge-2" uid="Hinge-2" entityUid="Hinge">
+<Transform>
+<Rotation>2.0968662053471153e-15 0.57056279093467499 -0.8212539811780728 -1 2.4051346647155262e-15 -8.8229204981616791e-16 1.4718234043044275e-15 0.8212539811780728 0.57056279093467499</Rotation>
+<Translation>0.047328375826849921 -0.081000001999391863 -0.044270297320179411</Translation>
+</Transform>
+<Instance name="Copy of Part1^Hinge-1" uid="Copy of Part1^Hinge-1" entityUid="Copy of Part1^Hinge*:*Default">
+<Transform>
+<Rotation>-1 -2.1307615585288979e-15 -2.1690463269060495e-16 2.1014401506061454e-15 -0.99568523360325578 0.092795019178994576 -4.1369279955972673e-16 0.092795019178994576 0.99568523360325578</Rotation>
+<Translation>0 0.0094298712752284714 -0.0005082152222869174</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part2^Hinge-1" uid="Part2^Hinge-1" entityUid="Part2^Hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421137e-15 1 -1.1802248265335302e-15 -0.89775164036859212 -2.0828521683767332e-15 -0.44050197753869608 -0.44050197753869608 2.9264700350193823e-16 0.89775164036859212</Rotation>
+<Translation>-0.0089999999999998276 0.0040000000000000764 0.00049999999999918165</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^Hinge-1" uid="Part1^Hinge-1" entityUid="Part1^Hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.8077456362597776e-15 1.6939728024812676e-15 -2.4226143035694778e-15 0.57056279093467765 0.82125398117807091 5.181004507844776e-16 -0.82125398117807102 0.57056279093467754</Rotation>
+<Translation>-2.1463508331764913e-09 0.0013071215892681773 0.0034997345864736101</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="Hinge-5" uid="Hinge-5" entityUid="Hinge">
+<Transform>
+<Rotation>1.1300739017401837e-15 0.99568523360325567 -0.092795019178994603 -1 1.0943107786333755e-15 -4.3628223626915212e-16 -3.32853190645537e-16 0.092795019178994603 0.99568523360325567</Rotation>
+<Translation>-0.056436343424823725 0.081000000000000086 -0.041569022693517407</Translation>
+</Transform>
+<Instance name="Part2^Hinge-1" uid="Part2^Hinge-1" entityUid="Part2^Hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421137e-15 1 -1.1802248265335312e-15 -0.89775164036859223 -2.0828521683767328e-15 -0.44050197753869613 -0.44050197753869613 2.9264700350193863e-16 0.89775164036859223</Rotation>
+<Translation>-0.0089999999999999802 0.0040000000000000313 0.00049999999999999351</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^Hinge-1" uid="Part1^Hinge-1" entityUid="Part1^Hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.5387504159354458e-15 1.4897783715862508e-15 -2.1014401506062117e-15 0.57056279093466944 0.82125398117807658 4.1369279956004755e-16 -0.82125398117807669 0.57056279093466933</Rotation>
+<Translation>-1.9894580149948382e-09 0.0013071218690028433 0.0034997345286220324</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Copy of Part1^Hinge-1" uid="Copy of Part1^Hinge-1" entityUid="Copy of Part1^Hinge*:*Default">
+<Transform>
+<Rotation>-1 -2.1307615585288987e-15 -2.1690463269060532e-16 2.1014401506061458e-15 -0.99568523360325589 0.092795019178994603 -4.1369279955972693e-16 0.092795019178994603 0.99568523360325589</Rotation>
+<Translation>0 0.0094298712752284228 -0.00050821522228610555</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="Hinge-1" uid="Hinge-1" entityUid="Hinge">
+<Transform>
+<Rotation>1.4728760963303438e-15 0.57056279093467432 -0.82125398117807336 -1 1.9458444813626914e-15 -4.4158037176148361e-16 1.346083197738291e-15 0.82125398117807336 0.57056279093467432</Rotation>
+<Translation>0.047328375826849942 0.080999998000608184 -0.044270297320177961</Translation>
+</Transform>
+<Instance name="Part2^Hinge-1" uid="Part2^Hinge-1" entityUid="Part2^Hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421139e-15 1 -1.1802248265335302e-15 -0.89775164036859212 -2.0828521683767332e-15 -0.44050197753869608 -0.44050197753869608 2.9264700350193823e-16 0.89775164036859212</Rotation>
+<Translation>-0.0089999999999998276 0.0040000000000000382 0.00049999999999779388</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Copy of Part1^Hinge-1" uid="Copy of Part1^Hinge-1" entityUid="Copy of Part1^Hinge*:*Default">
+<Transform>
+<Rotation>-1 -2.1307615585288975e-15 -2.1690463269060483e-16 2.101440150606145e-15 -0.99568523360325578 0.092795019178994603 -4.1369279955972673e-16 0.092795019178994603 0.99568523360325578</Rotation>
+<Translation>0 0.0094298712752284332 -0.00050821522228830518</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^Hinge-1" uid="Part1^Hinge-1" entityUid="Part1^Hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.4728760976806145e-15 1.462031755942314e-15 -2.0410676971700174e-15 0.57056279093467355 0.82125398117807369 3.7542443989666187e-16 -0.8212539811780738 0.57056279093467344</Rotation>
+<Translation>-3.9561692394274317e-09 0.0013071202568678449 0.0034997343368281669</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="Mirrorside-3" uid="Mirrorside-3" entityUid="Mirrorside*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.050000000000000003 0 -0.050000000000000003</Translation>
+</Transform>
+</Instance>
+<Instance name="ceiling-3" uid="ceiling-3" entityUid="ceiling*:*other">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -1</Rotation>
+<Translation>0 0.16424999999999898 0</Translation>
+</Transform>
+</Instance>
+<Instance name="hing_support-2" uid="hing_support-2" entityUid="hing_support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.045000000000000179 -0.090249999999999941 -0.044999999999999707</Translation>
+</Transform>
+</Instance>
+<Instance name="Solar panal-2" uid="Solar panal-2" entityUid="Solar panal*:*Moving">
+<Transform>
+<Rotation>-0.64430922471135788 -0.7647650769692933 5.5864971403874333e-15 9.8880246719031696e-15 -1.0257376984341218e-15 1 -0.7647650769692933 0.64430922471135788 8.2229082105176005e-15</Rotation>
+<Translation>0.078363198795969494 1.9993910542663933e-09 -0.0088783293091058944</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorspring-3" uid="Mirrorspring-3" entityUid="Mirrorspring*:*Default">
+<Transform>
+<Rotation>-0.30905066885133142 -0.95104557413540636 0 -1.8096681871701767e-16 1.0519463302448898e-16 -1 0.95104557413540636 -0.30905066885133142 -2.0461816369250338e-16</Rotation>
+<Translation>-0.04920000000000016 0.090000000000000024 -0.040700000000000076</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorspring-4" uid="Mirrorspring-4" entityUid="Mirrorspring*:*Default">
+<Transform>
+<Rotation>-0.30905066885133142 -0.95104557413540636 0 1.809668187041777e-16 -1.0519463300272133e-16 -1 0.95104557413540636 -0.30905066885133142 2.0461816368303401e-16</Rotation>
+<Translation>-0.049200000000000153 -0.072000000000000036 -0.040700000000000076</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorhing_support-4" uid="Mirrorhing_support-4" entityUid="Mirrorhing_support*:*Default">
+<Transform>
+<Rotation>-1 0 0 0 1 0 0 0 -1</Rotation>
+<Translation>0.045000000000000179 -0.090249999999999941 -0.044999999999999707</Translation>
+</Transform>
+</Instance>
+<Instance name="spring-2" uid="spring-2" entityUid="spring*:*Default">
+<Transform>
+<Rotation>0.30905066885133142 0.95104557413540636 0 1.8096681870417767e-16 -1.0519463300272133e-16 1 0.95104557413540636 -0.30905066885133142 -2.0461816368303401e-16</Rotation>
+<Translation>0.049200000000000153 -0.072000000000000036 -0.040700000000000076</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorhing_support-3" uid="Mirrorhing_support-3" entityUid="Mirrorhing_support*:*Default">
+<Transform>
+<Rotation>-1 0 0 0 1 0 0 0 -1</Rotation>
+<Translation>0.045000000000000179 0.071750000000000036 -0.044999999999999811</Translation>
+</Transform>
+</Instance>
+<Instance name="shutter_hinge-1" uid="shutter_hinge-1" entityUid="shutter_hinge">
+<Transform>
+<Rotation>3.1293520567051031e-16 0.71249557090424964 0.70167660744949123 -1 1.558480453470715e-15 -1.1365281474423754e-15 -1.903320548628381e-15 -0.70167660744949123 0.71249557090424964</Rotation>
+<Translation>-0.10660412045793125 -0.080999998000607615 0.026087254095466399</Translation>
+</Transform>
+<Instance name="Part1^shutter_hinge-1" uid="Part1^shutter_hinge-1" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 4.3598597363400032e-15 -8.0722196566640265e-16 -4.3990492104236661e-15 0.99834679315632124 -0.057477653000877427 5.5529295573054777e-16 0.057477653000877316 0.99834679315632124</Rotation>
+<Translation>-1.3866084530578249e-09 3.5351561935390019e-05 -0.00022908429733668745</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part2^shutter_hinge-1" uid="Part2^shutter_hinge-1" grounded="true" entityUid="Part2^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421145e-15 1 -1.180224826533532e-15 -0.89775164036859234 -2.0828521683767324e-15 -0.44050197753869619 -0.44050197753869619 2.9264700350193853e-16 0.89775164036859234</Rotation>
+<Translation>-0.0089999999999999941 0.0040000000000000452 0.00049999999999998657</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^shutter_hinge-2" uid="Part1^shutter_hinge-2" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1 -1.9198212775058777e-15 -2.9779338334440345e-16 1.883903954451119e-15 -0.995685233603256 0.092795019178991356 -4.7465832672716975e-16 0.092795019178991356 0.995685233603256</Rotation>
+<Translation>0 0.0079363434248235637 -0.00036902269351760109</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="slotted_hinge-1" uid="slotted_hinge-1" entityUid="slotted_hinge*:*Default">
+<Transform>
+<Rotation>0.64430922471135754 2.8431877535098681e-15 -0.76476507696929374 -9.8880246719031775e-15 1 -4.6128646077185951e-15 0.76476507696929374 1.0534127168379934e-14 0.64430922471135754</Rotation>
+<Translation>0.05919640787030743 -0.16024999800060871 -0.025420219334494121</Translation>
+</Transform>
+</Instance>
+<Instance name="Solar panal-3" uid="Solar panal-3" entityUid="Solar panal*:*Moving">
+<Transform>
+<Rotation>-0.75164839291215479 0.65956401769091011 -1.1417610890289478e-15 -1.8418899083580989e-15 -3.6795897592953793e-16 1 0.65956401769091011 0.75164839291215479 1.4914200810160555e-15</Rotation>
+<Translation>-0.1354080992118305 3.9987836143762903e-09 0.049325953069203191</Translation>
+</Transform>
+</Instance>
+<Instance name="spring-1" uid="spring-1" entityUid="spring*:*Default">
+<Transform>
+<Rotation>0.30905066885133142 0.95104557413540636 0 -1.8096681870417767e-16 1.0519463300272133e-16 1 0.95104557413540636 -0.30905066885133142 2.0461816369250338e-16</Rotation>
+<Translation>0.04920000000000016 0.090000000000000024 -0.040700000000000076</Translation>
+</Transform>
+</Instance>
+<Instance name="hing_support-1" uid="hing_support-1" entityUid="hing_support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.045000000000000179 0.071750000000000036 -0.044999999999999811</Translation>
+</Transform>
+</Instance>
+<Instance name="Real NRF-1" uid="Real NRF-1" entityUid="Real NRF" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 -1.367995606967265e-15 -1 0 1 -1.367995606967265e-15</Rotation>
+<Translation>-0.19686236506210286 -0.15614997175514397 -0.065558814664988821</Translation>
+</Transform>
+<Instance name="Real NRF.step-1" uid="Real NRF.step-1" grounded="true" entityUid="Real NRF.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="NQvi-H2.step-1" uid="NQvi-H2.step-1" grounded="true" entityUid="NQvi-H2.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.049022098044195994 0.075819151638302995 0.0016000282448559999</Translation>
+</Transform>
+<Instance name="HDR-TH_4P-P2.54-V-M.step-1" uid="HDR-TH_4P-P2.54-V-M.step-1" grounded="true" entityUid="HDR-TH_4P-P2.54-V-M.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="NQvi-P8.step-1" uid="NQvi-P8.step-1" grounded="true" entityUid="NQvi-P8.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.06150662941325899 0.075819177038354002 0.0016000282448559999</Translation>
+</Transform>
+<Instance name="HDR-TH_2P-P2.54-V-F.step-1" uid="HDR-TH_2P-P2.54-V-F.step-1" grounded="true" entityUid="HDR-TH_2P-P2.54-V-F.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="NQvi-H1.step-1" uid="NQvi-H1.step-1" grounded="true" entityUid="NQvi-H1.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.032677571755143991 0.075819151638302995 0.0016000282448559999</Translation>
+</Transform>
+<Instance name="HDR-TH_5P-P2.54-V-F.step-1" uid="HDR-TH_5P-P2.54-V-F.step-1" grounded="true" entityUid="HDR-TH_5P-P2.54-V-F.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="slotted_hinge_outter-1" uid="slotted_hinge_outter-1" entityUid="slotted_hinge_outter*:*Default">
+<Transform>
+<Rotation>0.75164839291215468 1.1465612817670543e-15 0.65956401769090989 1.8418899083580993e-15 1 -3.8374059278831668e-15 -0.65956401769090989 4.0992243067459634e-15 0.75164839291215468</Rotation>
+<Translation>-0.15156105296387057 -0.16124999600121642 0.068821647083124382</Translation>
+</Transform>
+</Instance>
+<Instance name="slotted_hinge-2" uid="slotted_hinge-2" entityUid="slotted_hinge*:*Default">
+<Transform>
+<Rotation>0.64430922471135743 -2.8431877535098693e-15 0.76476507696929374 9.8880246719031759e-15 1 -4.6128646077185959e-15 -0.76476507696929352 1.0534127168379934e-14 0.64430922471135754</Rotation>
+<Translation>-0.091411869105875301 -0.16024999800060921 0.012818034513970563</Translation>
+</Transform>
+</Instance>
+<Instance name="shutter_hinge-3" uid="shutter_hinge-3" entityUid="shutter_hinge">
+<Transform>
+<Rotation>3.1293520567051031e-16 0.71249557090424964 0.70167660744949123 1 -1.5584804534707158e-15 1.1365281474423754e-15 1.903320548628381e-15 0.70167660744949123 -0.71249557090424964</Rotation>
+<Translation>0.10059931824415622 -0.080999998000607629 0.020769665440328273</Translation>
+</Transform>
+<Instance name="Part1^shutter_hinge-1" uid="Part1^shutter_hinge-1" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 4.3598597363400032e-15 -8.0722196566640265e-16 -4.3990492104236669e-15 0.99834679315632124 -0.057477653000877427 5.5529295573054777e-16 0.057477653000877316 0.99834679315632124</Rotation>
+<Translation>-1.386609091436064e-09 3.5350891312638244e-05 -0.00022908364303236145</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part2^shutter_hinge-1" uid="Part2^shutter_hinge-1" grounded="true" entityUid="Part2^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421139e-15 1 -1.1802248265335316e-15 -0.89775164036859234 -2.0828521683767332e-15 -0.44050197753869619 -0.44050197753869619 2.9264700350193853e-16 0.89775164036859234</Rotation>
+<Translation>-0.009000000000000008 0.0040000000000000313 0.00050000000000000738</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^shutter_hinge-2" uid="Part1^shutter_hinge-2" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1 -1.9198212775058769e-15 -2.9779338334440365e-16 1.8839039544511198e-15 -0.995685233603256 0.092795019178991356 -4.7465832672716975e-16 0.092795019178991356 0.995685233603256</Rotation>
+<Translation>0 0.0079363434248235498 -0.00036902269351758721</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="shutter_hinge-2" uid="shutter_hinge-2" entityUid="shutter_hinge">
+<Transform>
+<Rotation>-1.9705869723873851e-15 0.71249557090424964 -0.70167660744949123 1 2.1615081499159424e-15 -6.1356183821451917e-16 1.07951961340373e-15 -0.70167660744949123 -0.71249557090424964</Rotation>
+<Translation>-0.1063061388348053 0.081000005998175556 0.026389830217335514</Translation>
+</Transform>
+<Instance name="Part1^shutter_hinge-1" uid="Part1^shutter_hinge-1" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.0522075922507129e-13 -3.6628319302581198e-14 -7.4021298547419413e-14 0.87316361587772573 0.48742722524222554 8.3269978432722505e-14 -0.48742722524222559 0.87316361587772562</Rotation>
+<Translation>-2.0003724926498379e-09 0.00026363192385472911 0.0020131270922292971</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part2^shutter_hinge-1" uid="Part2^shutter_hinge-1" grounded="true" entityUid="Part2^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421139e-15 1 -1.1802248265335322e-15 -0.89775164036859234 -2.0828521683767332e-15 -0.44050197753869624 -0.44050197753869624 2.9264700350193843e-16 0.89775164036859234</Rotation>
+<Translation>-0.0089999999999999802 0.0040000000000000452 0.00049999999999999351</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^shutter_hinge-2" uid="Part1^shutter_hinge-2" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1 -1.9198212775058765e-15 -2.9779338334440355e-16 1.883903954451119e-15 -0.995685233603256 0.0927950191789913 -4.7465832672717014e-16 0.0927950191789913 0.995685233603256</Rotation>
+<Translation>-1.0997452948302566e-12 0.0079363434248203302 -0.00036902269463378462</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="shutter_hinge-4" uid="shutter_hinge-4" entityUid="shutter_hinge">
+<Transform>
+<Rotation>-1.9705869723873851e-15 0.71249557090424964 -0.70167660744949123 -1 -2.1615081499159424e-15 6.1356183821451917e-16 -1.07951961340373e-15 0.70167660744949123 0.71249557090424964</Rotation>
+<Translation>0.10279126993551041 0.081000005998175584 0.017785272260829869</Translation>
+</Transform>
+<Instance name="Part2^shutter_hinge-1" uid="Part2^shutter_hinge-1" grounded="true" entityUid="Part2^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1.7409723670421139e-15 1 -1.1802248265335322e-15 -0.89775164036859234 -2.0828521683767332e-15 -0.44050197753869624 -0.44050197753869624 2.9264700350193843e-16 0.89775164036859234</Rotation>
+<Translation>-0.0089999999999999941 0.0040000000000000452 0.00049999999999999351</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^shutter_hinge-2" uid="Part1^shutter_hinge-2" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>-1 -1.9198212775058765e-15 -2.9779338334440355e-16 1.883903954451119e-15 -0.995685233603256 0.0927950191789913 -4.7465832672717014e-16 0.0927950191789913 0.995685233603256</Rotation>
+<Translation>1.0990514054398659e-12 0.0079363434248203024 -0.00036902269463384707</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1^shutter_hinge-1" uid="Part1^shutter_hinge-1" entityUid="Part1^shutter_hinge*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.0522075922507129e-13 -3.6628319302581198e-14 -7.4021298547419413e-14 0.87316361587772573 0.48742722524222554 8.3269978432722505e-14 -0.48742722524222559 0.87316361587772562</Rotation>
+<Translation>-1.9981562376925055e-09 0.00026363192255648982 0.0020131270924978253</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.45294117647058824" g="0.36235294117647054" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</Instance>
+<Instance name="Mirrorslotted_hinge-2" uid="Mirrorslotted_hinge-2" entityUid="Mirrorslotted_hinge*:*Default">
+<Transform>
+<Rotation>0.64430922471135754 -8.1498114840134382e-15 0.76476507696929352 -9.8880246719031696e-15 -1 -2.3260292961888952e-15 0.76476507696929352 -6.0633338167989286e-15 -0.64430922471135754</Rotation>
+<Translation>0.059196407870309171 0.16025000199939168 -0.025420219334491453</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorslotted_hinge_outter-3" uid="Mirrorslotted_hinge_outter-3" entityUid="Mirrorslotted_hinge_outter*:*Default">
+<Transform>
+<Rotation>0.75164839291215502 -3.4300834598249511e-15 0.65956401769090989 -1.8418899083580851e-15 -1 -3.1014879760240647e-15 0.65956401769091 1.1163841447138601e-15 -0.75164839291215479</Rotation>
+<Translation>0.11397863331826322 0.1612500039987865 0.035843446198579362</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorslotted_hinge_outter-2" uid="Mirrorslotted_hinge_outter-2" entityUid="Mirrorslotted_hinge_outter*:*Default">
+<Transform>
+<Rotation>0.75164839291215479 3.4300834598249515e-15 -0.65956401769090989 1.8418899083580847e-15 -1 -3.1014879760240651e-15 -0.65956401769090989 1.1163841447138601e-15 -0.75164839291215479</Rotation>
+<Translation>-0.15156105296387096 0.16125000399878642 0.068821647083124854</Translation>
+</Transform>
+</Instance>
+<Instance name="MirrorMirrorslotted_hinge-4" uid="MirrorMirrorslotted_hinge-4" entityUid="MirrorMirrorslotted_hinge*:*Default">
+<Transform>
+<Rotation>-0.64430922471135765 8.1498114840134382e-15 0.76476507696929363 -9.8880246719031696e-15 -1 2.3260292961888956e-15 0.76476507696929352 -6.0633338167989278e-15 0.64430922471135776</Rotation>
+<Translation>-0.059196407870309165 0.16025000199939168 -0.02542021933449146</Translation>
+</Transform>
+</Instance>
+<Instance name="slotted_hinge_outter-2" uid="slotted_hinge_outter-2" entityUid="slotted_hinge_outter*:*Default">
+<Transform>
+<Rotation>0.75164839291215491 -1.146561281767052e-15 -0.65956401769091 -1.8418899083580997e-15 1 -3.8374059278831637e-15 0.65956401769091 4.0992243067459657e-15 0.75164839291215491</Rotation>
+<Translation>0.11397863331826283 -0.16124999600121631 0.035843446198578897</Translation>
+</Transform>
+</Instance>
+<Instance name="Solar panal-4" uid="Solar panal-4" entityUid="Solar panal*:*Moving">
+<Transform>
+<Rotation>0.75164839291215479 -0.65956401769091011 -1.141761089028962e-15 -1.8418899083580989e-15 -3.6795897592953793e-16 -1 0.65956401769091011 0.75164839291215479 -1.491420081016049e-15</Rotation>
+<Translation>0.1354080992118305 3.9987836698874415e-09 0.049325953069203197</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>side-1</Uid>
+</InstancePath>
+<Position>1.6653345369377348e-16 -0.16275000000000003 5.2735593669694936e-16</Position>
+<Axis>1.0408340855860841e-15 -1 3.2653618371328116e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ceiling-2</Uid>
+</InstancePath>
+<Position>0 0.0015000000000000013 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>side-1</Uid>
+</InstancePath>
+<Position>0.020000000000000007 -0.17025000000000001 -0.006249999999999957</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>ceiling-2</Uid>
+</InstancePath>
+<Position>-0.029999999999999995 0.0015000000000000013 0.043750000000000004</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0 0.17025000000000001 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>side-1</Uid>
+</InstancePath>
+<Position>0 0.17025000000000001 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ceiling-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>dasdasdasd</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000859</Position>
+<Axis>0 0 -1.0000000000000004</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-2</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00029999999999999472</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000859</Position>
+<Axis>0 0 -1.0000000000000004</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-2</Uid>
+</InstancePath>
+<Position>0 0.0010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Tangent name="Tangent1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.10000000000000001 0.17025000000000001 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-2</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0.0039999999999999966 0.00050000000000000044</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Tangent>
+<Distance name="Distance2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-2</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000165</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0 0.17025000000000001 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Tangent name="Tangent2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.10000000000000001 0.17025000000000001 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0.0040000000000000105 0.00050000000000000044</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Tangent>
+<Distance name="Distance3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-2</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0.0085000000000000075 0.0029999999999999957 -0.00030000000000000165</Position>
+<Axis>0.99999999999999989 -2.8912057932946606e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.097500000000000003 -0.17025000000000001 0.0015000000000000013</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0084999999999999937 0.0030000000000000096 -0.00029999999999999472</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.098500000000000004 0.17025000000000001 0.0025000000000000022</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident54">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-2</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident55">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0 0.17025000000000001 0.0015000000000000013</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hing_support-1</Uid>
+</InstancePath>
+<Position>-0.00350000000000001 0.018500000000000003 -0.0035000000000000031</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident56">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.0015000000000000013 0.17025000000000001 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hing_support-1</Uid>
+</InstancePath>
+<Position>-0.00350000000000001 0.018500000000000003 -0.0035000000000000031</Position>
+<Axis>-1 0 -9.9127055770103265e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hing_support-1</Uid>
+</InstancePath>
+<Position>0 0.018500000000000003 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.098500000000000004 0.17025000000000001 0.0025000000000000022</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Part2^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0.018000000000000002 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>spring-1</Uid>
+</InstancePath>
+<Position>0 0 -0.027316457677051514</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance7">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>spring-1</Uid>
+</InstancePath>
+<Position>0 0 -0.009000000000000008</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-1</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0084999999999999937 0.0040000000000000105 0.00050000000000000738</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Parallel name="Parallel4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Mirrorside-3</Uid>
+</InstancePath>
+<Position>0.098500000000000004 0.17025000000000001 0.02</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>spring-1</Uid>
+</InstancePath>
+<Position>0.0069830951851061612 -0.0034258402817042011 0.007139676386198085</Position>
+<Axis>-0.95104557413540514 0.30905066885133514 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident84">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>side-1</Uid>
+</InstancePath>
+<Position>0 0.17025000000000001 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>dasdasdasd</Uid>
+</InstancePath>
+<Position>0 -0.19358296273397374 0.050000000000000003</Position>
+<Axis>0 -1.2246467991473525e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident97">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slotted_hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0040000000000000036</Position>
+<Axis>0 3.469446951953611e-15 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident99">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-2</Uid>
+</InstancePath>
+<Position>0.040000000000000008 0.0010000000000000009 -0.16025000000000003</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slotted_hinge-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slotted_hinge-1</Uid>
+</InstancePath>
+<Position>0.050000000000000017 0 -0.0050000000000000183</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-2</Uid>
+</InstancePath>
+<Position>-0.040000000000000015 0.0010000000000000009 0.16025000000000003</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident103">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slotted_hinge_outter-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0040000000000000105</Position>
+<Axis>0 3.4694469519536087e-15 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slotted_hinge_outter-1</Uid>
+</InstancePath>
+<Position>0 0.00073660000000000392 -0.0032634000000000066</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-3</Uid>
+</InstancePath>
+<Position>0.040000000000000008 0.0010000000000000078 0.16025000000000003</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slotted_hinge_outter-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-3</Uid>
+</InstancePath>
+<Position>0.040000000000000008 0.0010000000000000009 -0.16024999999999998</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident106">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-1</Uid>
+</InstancePath>
+<Position>0 0.0010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shutter_hinge-1</Uid>
+<Uid>Part1^shutter_hinge-2</Uid>
+</InstancePath>
+<Position>0 0 -0.00029999999999998084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric48">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Solar panal-1</Uid>
+</InstancePath>
+<Position>-0.036999999999999991 0 0.086499999999999966</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shutter_hinge-1</Uid>
+<Uid>Part1^shutter_hinge-2</Uid>
+</InstancePath>
+<Position>-0.0055000000000000049 0 -0.00029999999999999472</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric49">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Solar panal-1</Uid>
+</InstancePath>
+<Position>-0.036999999999999991 0 0.075499999999999956</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shutter_hinge-1</Uid>
+<Uid>Part1^shutter_hinge-2</Uid>
+</InstancePath>
+<Position>0.0055000000000000049 0 -0.00029999999999998084</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident108">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Solar panal-3</Uid>
+</InstancePath>
+<Position>0 0.00099999999999998701 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shutter_hinge-1</Uid>
+<Uid>Part1^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00029999999999998778</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric50">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Solar panal-3</Uid>
+</InstancePath>
+<Position>-0.036999999999999977 0 -0.07549999999999997</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shutter_hinge-1</Uid>
+<Uid>Part1^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>-0.0055000000000000049 0 -0.00029999999999999472</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric51">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Solar panal-3</Uid>
+</InstancePath>
+<Position>-0.036999999999999977 0 -0.08649999999999998</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shutter_hinge-1</Uid>
+<Uid>Part1^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>0.005499999999999991 0 -0.00029999999999998084</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident109">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-6</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000165</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hing_support-2</Uid>
+</InstancePath>
+<Position>-0.003500000000000017 0.018500000000000003 0.0034999999999999962</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric53">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-6</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0.0055000000000000049 -0.0020000000000000087 -0.00030000000000000165</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hing_support-2</Uid>
+</InstancePath>
+<Position>0 0.014749999999999999 0.0034999999999999962</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric54">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-6</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0055000000000000049 -0.0020000000000000087 -0.00030000000000000165</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hing_support-2</Uid>
+</InstancePath>
+<Position>0 0.0037500000000000033 0.0034999999999999962</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident110">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-5</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000165</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hing_support-1</Uid>
+</InstancePath>
+<Position>-0.003500000000000017 0.018500000000000003 0.0034999999999999962</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric55">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-5</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0.0055000000000000049 -0.0020000000000000087 -0.00030000000000000165</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hing_support-1</Uid>
+</InstancePath>
+<Position>0 0.014749999999999999 0.0034999999999999962</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric56">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-5</Uid>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0055000000000000049 -0.0020000000000000087 -0.00030000000000000165</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hing_support-1</Uid>
+</InstancePath>
+<Position>0 0.0037500000000000033 0.0034999999999999962</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric59">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-5</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0055000000000000049 0 -0.00030000000000000859</Position>
+<Axis>0 1.1102230246251565e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Solar panal-1</Uid>
+</InstancePath>
+<Position>0.036999999999999977 0 -0.08649999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric60">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Hinge-5</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0.0055000000000000049 0 -0.00030000000000000859</Position>
+<Axis>0 1.1102230246251565e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Solar panal-1</Uid>
+</InstancePath>
+<Position>0.036999999999999984 0 -0.07549999999999997</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident116">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-5</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000859</Position>
+<Axis>0 -1.1102230246251565e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hinge-6</Uid>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00030000000000000859</Position>
+<Axis>0 -1.1102230246251565e-16 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Hinge" uid="Hinge" version="246">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Hinge.SLDASM" type="SolidWorks Assembly"/>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0.0040000000000000001 0.00050000000000000044</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0084999999999999989 0.0055000000000000049 0.00050000000000000023</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0084999999999999989 0.0055000000000000049 0.00050000000000000023</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0.017999999999999999 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0.017999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copy of Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0084999999999999989 0.0055000000000000049 0.00050000000000000023</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2^Hinge-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1^Hinge-1</Uid>
+</InstancePath>
+<Position>-0.0084999999999999989 0.004000000000000001 0.00050000000000000001</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+</Constraints>
+</Assembly>
+<Assembly name="shutter_hinge" uid="shutter_hinge" version="220">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="shutter_hinge.SLDASM" type="SolidWorks Assembly"/>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>0 0.004000000000000001 0.00050000000000000001</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1^shutter_hinge-2</Uid>
+</InstancePath>
+<Position>-0.0085000000000000058 0.0040000000000000001 0.00050000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1^shutter_hinge-2</Uid>
+</InstancePath>
+<Position>-0.0085000000000000058 0.0040000000000000001 0.00050000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>0 0.017999999999999999 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>0 0.017999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1^shutter_hinge-2</Uid>
+</InstancePath>
+<Position>-0.0085000000000000058 0.0040000000000000001 0.00050000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1^shutter_hinge-1</Uid>
+</InstancePath>
+<Position>-0.0085000000000000006 0.004000000000000001 0.00050000000000000001</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+</Constraints>
+</Assembly>
+<Assembly name="Real NRF" uid="Real NRF" version="109">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Real NRF.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Real NRF.step" uid="Real NRF.step" version="108">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Real NRF.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="NQvi-H2.step" uid="NQvi-H2.step" version="104">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="NQvi-H2.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="HDR-TH_4P-P2.54-V-M.step" uid="HDR-TH_4P-P2.54-V-M.step" version="104">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="HDR-TH_4P-P2.54-V-M.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="NQvi-P8.step" uid="NQvi-P8.step" version="104">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="NQvi-P8.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="HDR-TH_2P-P2.54-V-F.step" uid="HDR-TH_2P-P2.54-V-F.step" version="103">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="HDR-TH_2P-P2.54-V-F.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="NQvi-H1.step" uid="NQvi-H1.step" version="104">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="NQvi-H1.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="HDR-TH_5P-P2.54-V-F.step" uid="HDR-TH_5P-P2.54-V-F.step" version="104">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="HDR-TH_5P-P2.54-V-F.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Copy of Part1^Hinge" uid="Copy of Part1^Hinge*:*Default" version="253">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>5.2778155246329079e-05</Mass>
+<CenterOfMass>-0.00044769514419658318 0.001306700274310017 -2.5824587300927284e-05</CenterOfMass>
+<Inertia>5.3840476296675795e-10 1.238133484746226e-09 1.7641835269665668e-09 -2.7577800602485568e-11 1.0992635372323467e-11 9.7650827206559212e-11</Inertia>
+</MassProperties>
+<GeometryFile name="Copy of Part1-Hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="MirrorMirrorslotted_hinge" uid="MirrorMirrorslotted_hinge*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="MirrorMirrorslotted_hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00037239375341515242</Mass>
+<CenterOfMass>0.025000000000000005 0.00081386497826119771 -0.0034979956693310947</CenterOfMass>
+<Inertia>1.590506670942576e-09 7.8975441776238029e-08 7.9055651828421947e-08 4.8613829575249902e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="MirrorMirrorslotted_hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrorhing_support" uid="Mirrorhing_support*:*Default" version="130">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrorhing_support.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00081770686437593028</Mass>
+<CenterOfMass>1.5908718445358412e-05 0.0092499999999999995 3.5957668729737182e-05</CenterOfMass>
+<Inertia>2.6509340598764568e-08 6.9929030226314703e-09 2.6738152721762181e-08 0 -4.2074742639347677e-11 0</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrorhing_support_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrorside" uid="Mirrorside*:*Default" version="108">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrorside.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.10101218364522831</Mass>
+<CenterOfMass>0.050000000000000024 0 0.0060903652350068772</CenterOfMass>
+<Inertia>0.0011987517476177549 0.000190934247976094 0.0013819297478235774 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrorside_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrorslotted_hinge" uid="Mirrorslotted_hinge*:*Default" version="175">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrorslotted_hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00037239375341515237</Mass>
+<CenterOfMass>0.025000000000000008 0.0008138649782611975 0.0034979956693310947</CenterOfMass>
+<Inertia>1.5905066709425756e-09 7.8975441776237989e-08 7.9055651828421907e-08 -4.8613829575249891e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrorslotted_hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrorslotted_hinge_outter" uid="Mirrorslotted_hinge_outter*:*Default" version="170">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrorslotted_hinge_outter.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00042239375341515239</Mass>
+<CenterOfMass>0.025000000000000001 0.0012442536274640461 0.0036166058905485587</CenterOfMass>
+<Inertia>2.2352578675236287e-09 8.9440533345739288e-08 9.0068644788835143e-08 -6.4673358243925618e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrorslotted_hinge_outter_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrorspring" uid="Mirrorspring*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrorspring.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.1308430225806019e-05</Mass>
+<CenterOfMass>0.0016187631234378889 0.0019753890749553745 0.0090002097494830575</CenterOfMass>
+<Inertia>1.2977489102011468e-08 1.1822089124547032e-08 2.5483525661372831e-09 5.0850323208483067e-14 -8.5124570670092098e-15 2.5053957850215875e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrorspring_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part1^Hinge" uid="Part1^Hinge*:*Default" version="221">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.7478155246329073e-05</Mass>
+<CenterOfMass>-0.00063046122916493759 0.0011687867637119073 2.486851116693055e-05</CenterOfMass>
+<Inertia>2.1938641357489272e-10 8.6489301209943999e-10 1.0728186646359077e-09 -1.8651027349694116e-11 9.7948322874919341e-12 6.5466734142147728e-11</Inertia>
+</MassProperties>
+<GeometryFile name="Part1-Hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part1^shutter_hinge" uid="Part1^shutter_hinge*:*Default" version="174">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="shutter_hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.7478155246329087e-05</Mass>
+<CenterOfMass>-0.00063046122916493932 0.0011687867637119077 2.4868511166930801e-05</CenterOfMass>
+<Inertia>2.1938641357489272e-10 8.648930120994405e-10 1.0728186646359082e-09 -1.8651027349694123e-11 9.7948322874919373e-12 6.5466734142147676e-11</Inertia>
+</MassProperties>
+<GeometryFile name="Part1-shutter_hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part2^Hinge" uid="Part2^Hinge*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.413716694115407e-05</Mass>
+<CenterOfMass>0 0.0089999999999999993 0</CenterOfMass>
+<Inertia>3.8258708034498176e-10 1.7671458676442587e-12 3.8258708034498176e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part2-Hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part2^shutter_hinge" uid="Part2^shutter_hinge*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="shutter_hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.413716694115407e-05</Mass>
+<CenterOfMass>0 0.0089999999999999993 0</CenterOfMass>
+<Inertia>3.8258708034498176e-10 1.7671458676442587e-12 3.8258708034498176e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part2-shutter_hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Solar panal" uid="Solar panal*:*Moving" version="819">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Solar panal.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030700141598682448</Mass>
+<CenterOfMass>0 0.00050000000000000001 0</CenterOfMass>
+<Inertia>0.00026292996948709842 0.00027924407482021073 1.6319222023378775e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Solar panal_Moving_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="ceiling" uid="ceiling*:*other" version="237">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="ceiling.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014824970001358771</Mass>
+<CenterOfMass>0 0.00074999999999999991 0</CenterOfMass>
+<Inertia>1.8892908633189287e-05 3.8038019171006068e-05 1.9150669901567295e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="ceiling_other_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hing_support" uid="hing_support*:*Default" version="157">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hing_support.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00081770686437593028</Mass>
+<CenterOfMass>1.5908718445358399e-05 0.0092499999999999995 -3.5957668729737216e-05</CenterOfMass>
+<Inertia>2.6509340598764568e-08 6.9929030226314695e-09 2.6738152721762177e-08 0 4.2074742639347651e-11 0</Inertia>
+</MassProperties>
+<GeometryFile name="hing_support_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="side" uid="side*:*Default" version="843">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="side.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.10101218364522864</Mass>
+<CenterOfMass>0.049999999999999989 0 -0.0060903652350068858</CenterOfMass>
+<Inertia>0.0011987517476177592 0.00019093424797609468 0.0013819297478235824 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="side_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="slotted_hinge" uid="slotted_hinge*:*Default" version="179">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="slotted_hinge.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00037239375341515242</Mass>
+<CenterOfMass>0.025000000000000005 0.00081386497826119771 -0.0034979956693310947</CenterOfMass>
+<Inertia>1.590506670942576e-09 7.8975441776238029e-08 7.9055651828421947e-08 4.8613829575249891e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="slotted_hinge_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="slotted_hinge_outter" uid="slotted_hinge_outter*:*Default" version="177">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="slotted_hinge_outter.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00042239375341515233</Mass>
+<CenterOfMass>0.025000000000000001 0.0012442536274640456 -0.0036166058905485582</CenterOfMass>
+<Inertia>2.2352578675236287e-09 8.9440533345739301e-08 9.0068644788835156e-08 6.4673358243925597e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="slotted_hinge_outter_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="spring" uid="spring*:*Default" version="561">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="spring.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.1308428990082961e-05</Mass>
+<CenterOfMass>0.001618763139755809 0.0019753891701660455 -0.0089997901801157562</CenterOfMass>
+<Inertia>1.2977489033440076e-08 1.1822089083654761e-08 2.5483525504382595e-09 5.0839032901771928e-14 -8.5153063363540101e-15 2.5053957701922058e-10</Inertia>
+</MassProperties>
+<GeometryFile name="spring_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

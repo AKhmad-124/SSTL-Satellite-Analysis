@@ -1,0 +1,12 @@
+Constrained Instances: 'side-1', 'side-1', 'main'
+Constraint Name: Symmetric4
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'side-1', 'side-1', 'main'
+Constraint Name: Symmetric5
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ESP3-CAM v4.step-1/eBom-FreeParts.step-1', 'ESP3-CAM v4.step-1/eBom-FreeParts.step-1', 'side-1', 'side-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------

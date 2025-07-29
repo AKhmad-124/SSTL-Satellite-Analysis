@@ -1,0 +1,13 @@
+Number_of_photos=1;
+
+
+% for n=1:Number_of_photos
+%     file_name = sprintf('C:\\Users\\AKhmad\\Desktop\\photo_number_%d.emf', n);
+%     print(figure(n), '-dmeta', '-r900',file_name);
+% end
+figure()
+hold on
+
+plot(out.simout.Data(1,2:601))
+plot(out.simout.Data(2,2:601))
+plot(out.simout.Data(3,2:601))
